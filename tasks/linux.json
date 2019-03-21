@@ -16,11 +16,4 @@
       "type": "Optional[String[1]]"
     }
   },
-  "extensions": {
-    "discovery": {
-      "friendlyName": "Manage package on Linux",
-      "osFamily": "linux",
-      "type": ["package"]    
-    }
-  }
 }
